@@ -7,3 +7,5 @@ LKFJKJFGKJFKJKJF
 ## Deployment 
 lkfjoiroirlijvfoijgiojtgijtgi
 ## How To Contribute
+### Copyright
+git 2014 copyright!
