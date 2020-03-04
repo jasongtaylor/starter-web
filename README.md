@@ -1,3 +1,3 @@
-# Starter Web
+# Starter Web Repo
 
-This is a Starter website project
+This is for showing how Git and GitHub work
